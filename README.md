@@ -61,6 +61,6 @@ Now that we have done this we have succesfully created a Modding Enviroment for 
 
 Very important quick note, everytime the game updates you will have to re-import both your stock files I.E. [Stock, Stock.Manifest] and your libraries files.
 
-##### Creating Components.
+### Creating Components.
 
 [WIP]
