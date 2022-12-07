@@ -45,7 +45,7 @@ Now you have all of the folders setup and the AGM Toolkit.
 First off we are going to grab the Dll's to Nebulous.
 This will let us add our scripts in game.
 
-Go to your Nebulous Installation Root Directory and find "ebulous_Data"and then "Managed"
+Go to your Nebulous Installation Root Directory and find "Nebulous_Data"and then "Managed"
 
 This will Usually be located at "C:\Program Files (x86)\Steam\steamapps\common\Nebulous\Nebulous_Data\Managed"
 You will grab the following from that folder and copy them to the "Lib" folder in your unity project.
@@ -59,4 +59,8 @@ Grab the following highlighted files and put them in your project in "Editor/Ass
 
 Now that we have done this we have succesfully created a Modding Enviroment for us to work with.
 
+Very important quick note, everytime the game updates you will have to re-import both your stock files I.E. [Stock, Stock.Manifest] and your libraries files.
+
 ##### Creating Components.
+
+[WIP]
