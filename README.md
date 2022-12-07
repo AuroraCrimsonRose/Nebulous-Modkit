@@ -3,7 +3,7 @@ This is a Tutorial / Basic File structure to get started with nebulous modding.
 
 ## Getting Started.
 
-Install Unity 2019.3f.19
+Install Unity 2020.3.19f1
 
 Open Unity and create a project, it has to be HDRP.
 
