@@ -1,9 +1,7 @@
 # Nebulous-Modkit
-## A collection of files to get started with nebulous modding.
+This is a Tutorial / Basic File structure to get started with nebulous modding.
 
-##### This is a Tutorial / Basic File structure to get started with nebulous modding.
-
-#### Getting Started.
+## Getting Started.
 
 Install Unity 2019.3f.19
 
@@ -11,7 +9,7 @@ Open Unity and create a project, it has to be HDRP.
 
 Once your project is open we need to delete the defalt files.
 
-##### Clearing your Project.
+#### Clearing your Project.
 
 Delete all of these.
 
@@ -21,7 +19,7 @@ Delete all of these.
 
 ![Clear your Scene](https://dl.dropbox.com/s/27kv8bto11jksn0/asset%20bundle.JPG)
 
-##### Setting up your project.
+#### Setting up your project.
 
 Now that you have your scene clear we need to set your project up for Mono and [.NET 4.0].
 
@@ -40,7 +38,7 @@ Once you have your project open go ahead and download these project files and ex
 Once you've extracted the files drag and drop the Folders, "Editor", "Lib", and "Scripts" into your Assets folder in the unity editor.
 Now you have all of the folders setup and the AGM Toolkit.
 
-##### Grabbing files from Nebulous.
+#### Grabbing files from Nebulous.
 
 First off we are going to grab the Dll's to Nebulous.
 This will let us add our scripts in game.
