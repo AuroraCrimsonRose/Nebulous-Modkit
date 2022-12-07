@@ -17,7 +17,7 @@ Delete all of these.
 
 Delete all of these.
 
-![Clear your Scene](https://dl.dropbox.com/s/27kv8bto11jksn0/asset%20bundle.JPG)
+![Clear your Scene](https://dl.dropbox.com/s/ihby9fo6iejrp2a/Assets.JPG)
 
 #### Setting up your project.
 
